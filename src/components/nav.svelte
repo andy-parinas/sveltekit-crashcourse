@@ -1,4 +1,5 @@
 <nav class="layout">
-    <a  href="/">My Site</a>
-    <a  href="/about">About Page</a>
+    <a data-sveltekit-preload-data="tap" href="/">My Site</a> | 
+    <a data-sveltekit-preload-data="tap" href="/recipes">Recipes</a> |
+    <a data-sveltekit-preload-data="tap" href="/about">About Page</a> 
 </nav>
